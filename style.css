@@ -5,7 +5,7 @@
 }
 
 body {
-    background: url('fundo-do-ceu-nocturno-estrelado_1048-16885.avif');
+    background: url('fundo-realista-de-estrelas-prateadas_23-2149943439.avif');
     font-family: Bai Jamjuree;
 }
 
@@ -82,7 +82,7 @@ body {
 }
 
 footer {
-    background-color: black;
+    background-color: rgb(22, 15, 15);
     color: white;
     position: fixed;
     bottom: 0;
@@ -99,7 +99,7 @@ footer p {
 @media (max-width: 560px) {
 
     body {
-        background: url('fundo-do-ceu-nocturno-estrelado_1048-16885.avif'), no-repeat cover;
+        background: url('fundo-realista-de-estrelas-prateadas_23-2149943439.avif'), no-repeat cover;
     }
 
     .cartao {
