@@ -5,7 +5,7 @@
 }
 
 body {
-    background: url('img');
+    background: url('fundo-do-ceu-nocturno-estrelado_1048-16885.avif');
     font-family: Bai Jamjuree;
 }
 
@@ -99,7 +99,7 @@ footer p {
 @media (max-width: 560px) {
 
     body {
-        background: url('img'), no-repeat cover;
+        background: url('fundo-do-ceu-nocturno-estrelado_1048-16885.avif'), no-repeat cover;
     }
 
     .cartao {
