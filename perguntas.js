@@ -7,7 +7,7 @@ criaCartao(
 criaCartao(
     'Astronomia',
     'O que são cometas?',
-    'São corpos gelado que ao se aproximarem o sol, liberam gases e poeira, formando uma cauda brilhante'
+    'São corpos gelados que ao se aproximarem o sol, liberam gases e poeira, formando uma cauda brilhante'
 )
 
 criaCartao(
